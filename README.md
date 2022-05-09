@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaafayed02" alt="asmaafayed02" /></a> </p>
 
+## :sassy_man:  About me
+
 - 🔭 I’m currently open for: **`An Intern` or a new `job opportunity`**
 
 - 🌱 I’m currently learning **`Software Engineering`**

@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **`Web Development`**
 
-- 📫 How to reach me **[on Email](asmaafayed02@gmail.com)**
+- 📫 How to reach me **[asmaafayed02@gmail.com]**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1E17fc6eBmHeTS1hlTbi8vhXZAAk-GZBU/view?usp=sharing)
 

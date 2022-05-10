@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaafayed02&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="asmaafayed02" bg_color=#808080 /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaafayed02&show_icons=true&locale=en" alt="asmaafayed02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaafayed02&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="asmaafayed02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaafayed02&" alt="asmaafayed02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaafayed02&bg_color=0d1117&text_color=ffffff" alt="asmaafayed02" /></p>

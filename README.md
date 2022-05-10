@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h3>Statistical Data: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaafayed02&show_icons=true&locale=en&layout=compact" alt="asmaafayed02" bg_color=#808080 /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaafayed02&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="asmaafayed02" bg_color=#808080 /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaafayed02&show_icons=true&locale=en" alt="asmaafayed02" /></p>
 

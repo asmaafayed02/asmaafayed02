@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Asmaa Fayed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaafayed02&label=Profile%20views&color=0e75b6&style=flat" alt="asmaafayed02" /> </p>
+<p align="center" theme="tokyonight"> <img src="https://komarev.com/ghpvc/?username=asmaafayed02&label=Profile%20views&color=0e75b6&style=flat" alt="asmaafayed02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaafayed02" alt="asmaafayed02" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaafayed02" alt="asmaafayed02" /></a> </p>
 
 ## :sassy_woman:  About me
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />

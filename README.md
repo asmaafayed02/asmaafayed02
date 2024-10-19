@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## :sassy_woman:  About me:
 
-- 🔭 I’m currently open for: **`An Intern` or a new `job opportunity`**
+- 🔭 I’m currently open for: **`a new `job opportunity`**
 
 - 🌱 I’m currently learning **`Software Engineering`**
 

@@ -22,6 +22,18 @@ My focus is on **clean architecture**, **scalability**, and **user-centric desig
 
 ## 🚀 Featured Projects
 
+### 📰 **Souriazone App**  
+A real-time news aggregation app delivering instant updates from multiple sources.  
+**Highlights:**  
+- Real-time updates via Kafka-compatible Redpanda  
+- Intelligent search with Meilisearch  
+- Push notifications for breaking news  
+- Built on a microservices backend (Node.js + PostgreSQL)  
+**Stack:** Flutter • Dart • REST API • Meilisearch • Firebase Cloud Messaging  
+**Live:** [📱 Google Play](https://play.google.com/store/apps/details?id=com.syria.syriazone)
+
+---
+
 ### 🕌 **Sabeqoon App**  
 A cross-platform Flutter application connecting parents, teachers, and students with real-time communication and learning tools.  
 **Highlights:**  
@@ -45,17 +57,6 @@ A mobile app for **Mundipharma**, designed to engage pharmacists through educati
 
 ---
 
-### 📰 **Souriazone App**  
-A real-time news aggregation app delivering instant updates from multiple sources.  
-**Highlights:**  
-- Real-time updates via Kafka-compatible Redpanda  
-- Intelligent search with Meilisearch  
-- Push notifications for breaking news  
-- Built on a microservices backend (Node.js + PostgreSQL)  
-**Stack:** Flutter • Dart • REST API • Meilisearch • Firebase Cloud Messaging  
-**Live:** [📱 Google Play](https://play.google.com/store/apps/details?id=com.syria.syriazone)
-
----
 
 ## 💼 Professional Experience
 

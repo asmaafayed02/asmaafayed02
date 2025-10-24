@@ -30,7 +30,7 @@ A cross-platform Flutter application connecting parents, teachers, and students 
 - Calendar and event management  
 - Secure data integration for schools  
 **Stack:** Flutter • Dart • Firebase • REST API  
-**Live:** [📱 Google Play](https://play.google.com/store/apps/details?id=com.sabeqoon.lms.sabeqoon) | [🔒 Data Safety](https://play.google.com/store/apps/datasafety?id=com.sabeqoon.lms.sabeqoon&hl=en_GB)
+**Live:** [📱 Google Play](https://play.google.com/store/apps/details?id=com.sabeqoon.lms.sabeqoon) | [🍏 App Store](https://play.google.com/store/apps/datasafety?id=com.sabeqoon.lms.sabeqoon&hl=en_GB)
 
 ---
 
